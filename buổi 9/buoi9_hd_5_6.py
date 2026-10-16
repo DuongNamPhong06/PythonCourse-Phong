@@ -29,7 +29,7 @@ row=3, column=0, columnspan=2, pady=10)
 
 cua_so.mainloop()
 
-# Hoạt động 6: 
+# Hoạt động 6: messagebox – validate dữ liệu form
 
 import tkinter as tk
 from tkinter import messagebox
